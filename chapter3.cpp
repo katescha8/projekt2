@@ -309,9 +309,11 @@ void task312()
    if (an=='y')
       goto Task312;
 }
+
 int main()
 {
     task312();
     return 0;
 }
+
 
